@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @DivyaSonawane9044
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently 3rd year btech student
-- 💞️ I’m looking to collaborate on internship
-- 📫 How to reach me linkedin
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm Divya Sonawane
+ 
+👩‍💻Intern at Codsoft ( Web Developer ) | Cognifyz Technologies ( Full Stack Developer) .
+
+👨‍🎓 Purchasing my graduation in Computer Engineering from DBATU.
+
+⌛Worked as Java Developer | Techcotanet Services (Octomber2024-Nov2021), developed ensure team live training & hands-on experience in java Development. 
+
+🎯 Optimization, Process Improvement , Adaptable, Team Building, Public Speaking.
+👉Feel free to connect : GitHub-@DivyaSonawane9044
 
 <!---
 DivyaSonawane9044/DivyaSonawane9044 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
